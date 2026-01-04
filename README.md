@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Purvesh 👋
 
-<!--
-**Purvesh-PJ/Purvesh-PJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (2025)  
+💻 Full-Stack / Backend Developer (MERN)
 
-Here are some ideas to get you started:
+## 🧠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Primary (Project-based):**
+- JavaScript
+- React
+- Node.js
+- Express
+- MongoDB
+
+**Secondary (Problem-solving / Academic):**
+- C++
+- Python
+- Java
+
+**Web Fundamentals:**
+- HTML
+- CSS
+
+## 🚀 Projects
+My pinned repositories below showcase real-world backend and full-stack projects.
+
+## 🎯 Focus
+- Backend architecture & APIs
+- Clean project structure
+- Practical problem-solving
