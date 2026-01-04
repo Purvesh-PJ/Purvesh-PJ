@@ -1,30 +1,17 @@
-# Hi, I'm Purvesh 👋
 
-🎓 B.Tech Computer Science (2025)  
-💻 Full-Stack / Backend Developer (MERN)
+I mostly work with `Reactjs`, `Node.js`, `Express`, and `MongoDB`, emphasizing clean project structures. Building useful apps and structuring them to match real-world, production-style setups takes up the majority of my work.
 
-## 🧠 Skills
+Pinned repositories highlight the projects I’m actively improving.
 
-**Primary (Project-based):**
-- JavaScript
-- React
-- Node.js
-- Express
-- MongoDB
 
-**Secondary (Problem-solving / Academic):**
-- C++
-- Python
-- Java
+📌 **[Expense Tracker Platform](https://github.com/Purvesh-PJ/expense_tracker_platform)**  
+  Full-stack MERN application for managing expenses.
 
-**Web Fundamentals:**
-- HTML
-- CSS
+📌 **[Currency Conversion App](https://github.com/Purvesh-PJ/currency_conversion)**  
+  React and JavaScript application using external APIs.
 
-## 🚀 Projects
-My pinned repositories below showcase real-world backend and full-stack projects.
+📌 **[Skin Disease Detection](https://github.com/Purvesh-PJ/skin_disease_detection)**  
+  Web application using React with a Flask backend and machine learning
+  for skin disease prediction.
 
-## 🎯 Focus
-- Backend architecture & APIs
-- Clean project structure
-- Practical problem-solving
+
