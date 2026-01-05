@@ -14,4 +14,7 @@ Pinned repositories highlight the projects I’m actively improving.
   Web application using React with a Flask backend and machine learning
   for skin disease prediction.
 
+📌 **[bloghub](https://github.com/Purvesh-PJ/bloghub.git)**  
+  Web application using Reactjs, expressjs, mongodb, nodejs bloghub platform where users can create and manage our own blogs with categories.
+
 
