@@ -15,45 +15,65 @@ When I'm not coding, I'm usually exploring new tools, improving my existing proj
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <a href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <a href="https://nodejs.org/">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <a href="https://expressjs.com/">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      </a>
       <br>Express
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      </a>
       <br>MongoDB
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <a href="https://flask.palletsprojects.com/">
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      </a>
       <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <a href="https://git-scm.com/">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      </a>
       <br>VS Code
     </td>
   </tr>
@@ -68,7 +88,7 @@ When I'm not coding, I'm usually exploring new tools, improving my existing proj
     <td width="50%">
       <h3 align="center">💰 Expense Tracker</h3>
       <p align="center">
-        <a href="https://github.com/Purvesh-PJ/expense-tracker">
+        <a href="https://github.com/Purvesh-PJ/expense_tracker_platform">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -82,7 +102,7 @@ When I'm not coding, I'm usually exploring new tools, improving my existing proj
     <td width="50%">
       <h3 align="center">💱 Currency Converter</h3>
       <p align="center">
-        <a href="https://github.com/Purvesh-PJ/currency-converter">
+        <a href="https://github.com/Purvesh-PJ/currency_conversion">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
@@ -98,7 +118,7 @@ When I'm not coding, I'm usually exploring new tools, improving my existing proj
     <td width="50%">
       <h3 align="center">🔬 Skin Disease Detection</h3>
       <p align="center">
-        <a href="https://github.com/Purvesh-PJ/skin-disease-detection">
+        <a href="https://github.com/Purvesh-PJ/skin_disease_detection">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
         </a>
       </p>
