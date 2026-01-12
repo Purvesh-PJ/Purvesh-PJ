@@ -1,12 +1,6 @@
 # Hi there, I'm Purvesh 👋
 
-### About Me
-
-I'm a passionate full-stack developer who loves turning ideas into real, working applications. My journey in development started with curiosity about how things work on the web, and now I spend most of my time building practical solutions using modern technologies.
-
-I primarily work with the **MERN stack** (MongoDB, Express, React, Node.js) and enjoy the entire process from designing clean architectures to deploying production-ready apps. What drives me is creating software that's not just functional, but well-structured and maintainable.
-
-When I'm not coding, I'm usually exploring new tools, improving my existing projects, or learning something that makes me a better developer.
+I build scalable, real-world web applications with clean architecture and strong fundamentals in Data Structures & Algorithms.
 
 ---
 
