@@ -140,6 +140,9 @@ I build scalable, real-world web applications with clean architecture and strong
   </tr>
 </table>
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Purvesh-PJ&show_icons=true&theme=default)
+
 ---
 
 ### 📫 Let's Connect
