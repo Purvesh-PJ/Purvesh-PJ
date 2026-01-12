@@ -10,6 +10,13 @@ When I'm not coding, I'm usually exploring new tools, improving my existing proj
 
 ---
 
+### 🛠 Tech Stack
+**Frontend:** React, JavaScript, HTML, CSS  
+**Backend:** Node.js, Express.js, Flask  
+**Database:** MongoDB  
+**Programming:** C++, JavaScript  
+**Tools:** Git, GitHub, Postman 
+
 ### 🔧 What I Work With
 
 <table>
