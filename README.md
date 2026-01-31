@@ -1,6 +1,6 @@
 # Hi there, I'm Purvesh 👋
 
-I build scalable fullstack web-applications with react, node, mongodb and rest API's. follwing neat and clean code organization with industry grade practices to make fully scalable web application's.
+I build scalable fullstack web-applications with react, node, mongodb and rest API's. following neat and clean code organization with industry grade practices to make fully scalable web application's.
 ---
 
 ### 🔧 What I Work With
