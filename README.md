@@ -1,6 +1,6 @@
 # Hi there, I'm Purvesh 👋
 
-I am an entry-level Full-Stack Developer (MERN) with hands-on experience building web applications using React.js, Node.js, Express.js, and MongoDB. I enjoy working on practical projects involving REST APIs, authentication, CRUD operations, and clean frontend-backend integration.
+I am an entry-level Full-Stack Software Engineer with hands-on experience building scalable web applications using React.js, Node.js, Express.js, and MongoDB. I focus on engineering end-to-end solutions involving RESTful APIs, secure authentication flows, database schema design, and seamless frontend-backend integration.
 
 ---
 
