@@ -1,6 +1,6 @@
 # Hi there, I'm Purvesh 👋
 
-I am Software Engineer & Full-Stack Developer who built end-to-end web platforms and AI-powered systems with a strong focus on system design, database architecture, and reliable APIs. Across the stack, I build responsive interfaces, design scalable backend services, and develop practical machine learning pipelines. I also integrate modern LLM APIs directly into production workflows, turning complex engineering decisions into reliable, real-world software.
+I am a Software Engineer & Full-Stack Developer who builds end-to-end web platforms and AI-powered systems with a strong focus on system design, database architecture, and reliable APIs. Across the stack, I build responsive interfaces, design scalable backend services, and develop practical machine learning pipelines. I also integrate modern LLM APIs directly into production workflows, turning complex engineering decisions into reliable, real-world software.
 
 ---
 
